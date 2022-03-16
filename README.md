@@ -1,4 +1,4 @@
-### Hello, this Ghofrane!
+### Hello, this is Ghofrane!
 
 - 🔭 I’m currently working on Web development.
 - 🌱 I’m currently learning Python, HTML & CSS.
